@@ -1,0 +1,14 @@
+<div class="container" *ngIf="isShowUrlShortner">
+    <h1>URL Shortener</h1>
+    <form>
+        <input name="url" [(ngModel)]="longUrl" type="text" id="url" placeholder="Enter a long URL" required>
+        <button (click)="shortenUrl()">Shorten URL</button>
+    </form>
+    <div class="result">
+        <label for="shortenedUrl">Shortened URL:</label>
+        <div class="shortened-url">
+            <input type="text" [(ngModel)]="shortUrl" id="shortenedUrl" readonly>
+            <button id="copyButton">Copy</button>
+        </div>
+    </div>
+</div>

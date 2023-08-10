@@ -1,0 +1,8 @@
+C:\_Disk\Practice\Web\LinkShortner\LinkShortner-API\LinkShortner\obj\Debug\net5.0\LinkShortner.csproj.AssemblyReference.cache
+C:\_Disk\Practice\Web\LinkShortner\LinkShortner-API\LinkShortner\obj\Debug\net5.0\LinkShortner.dll.config
+C:\_Disk\Practice\Web\LinkShortner\LinkShortner-API\LinkShortner\obj\Debug\net5.0\LinkShortner.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Disk\Practice\Web\LinkShortner\LinkShortner-API\LinkShortner\obj\Debug\net5.0\LinkShortner.AssemblyInfoInputs.cache
+C:\_Disk\Practice\Web\LinkShortner\LinkShortner-API\LinkShortner\obj\Debug\net5.0\LinkShortner.AssemblyInfo.cs
+C:\_Disk\Practice\Web\LinkShortner\LinkShortner-API\LinkShortner\obj\Debug\net5.0\LinkShortner.csproj.CoreCompileInputs.cache
+C:\_Disk\Practice\Web\LinkShortner\LinkShortner-API\LinkShortner\obj\Debug\net5.0\LinkShortner.MvcApplicationPartsAssemblyInfo.cs
+C:\_Disk\Practice\Web\LinkShortner\LinkShortner-API\LinkShortner\obj\Debug\net5.0\LinkShortner.MvcApplicationPartsAssemblyInfo.cache
